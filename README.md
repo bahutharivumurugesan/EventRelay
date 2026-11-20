@@ -177,9 +177,6 @@ For the complete API reference, visit `/docs` while the backend is running.
 - Additional webhook integrations
 - Production deployment support
 
-## License
-
-A license has not yet been selected. Add an appropriate license before distributing this project publicly.
 
 ---
 
